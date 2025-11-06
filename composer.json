@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": "^8.0",
+    "ext-pdo": "*",
+    "ext-mysqli": "*",
+    "ext-curl": "*",
+    "ext-json": "*"
+  }
+}
