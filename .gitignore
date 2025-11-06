@@ -1,0 +1,26 @@
+# Environment files
+.env
+*.env
+
+# Database files
+*.sql
+*.db
+
+# Logs
+*.log
+logs/
+
+# Composer
+vendor/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# System
+.DS_Store
+Thumbs.db
+
+# Railway
+.railway/
